@@ -1,7 +1,7 @@
 # LoopD
 Quick and easy responsive slide carousel
 
-Include the css and these jquery files:
+Include the css, js and add jquery:
 ```
 <link rel="stylesheet" type="text/css" href="/loopd.css"/>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
